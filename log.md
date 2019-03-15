@@ -1,6 +1,6 @@
-# 100 Days Of Code - Log
+# 100 Days Of Python - Log
 
-### Day 0: 20190315
+### Day 1: 20190315
 
 **Today's Progress**: 3 exercises from practicepython.org
 
