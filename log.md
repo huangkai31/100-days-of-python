@@ -1,13 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: 20190315
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 3 exercises from practicepython.org
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I like coding, alough I did several python projects since 2010, I still find something to learn everyday. So I found the idea of 100 days of code and I think : Hey , I can use this method to refresh my python knowledge and learn/relearn something every day. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [practicepython.org](https://github.com/huangkai31/practicepython/commit/0e72577c1cb2a98838208372ad989fecbed1ff33)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
