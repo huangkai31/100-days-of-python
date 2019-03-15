@@ -6,7 +6,7 @@
 
 **Thoughts:** I like coding, alough I did several python projects since 2010, I still find something to learn everyday. So I found the idea of 100 days of code and I think : Hey , I can use this method to refresh my python knowledge and learn/relearn something every day. 
 
-**Link to work:** [practicepython.org](https://github.com/huangkai31/practicepython/commit/0e72577c1cb2a98838208372ad989fecbed1ff33)
+**Link to work:** [practicepython](https://github.com/huangkai31/practicepython/commit/0e72577c1cb2a98838208372ad989fecbed1ff33)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
