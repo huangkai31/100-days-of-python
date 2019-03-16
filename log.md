@@ -8,22 +8,9 @@
 
 **Link to work:** [practicepython](https://github.com/huangkai31/practicepython/commit/0e72577c1cb2a98838208372ad989fecbed1ff33)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: 20190316
+**Today's Progress**: 3 exercises from practicepython.org
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts**: keep working on it! 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**: [practicepython](https://github.com/huangkai31/practicepython/commit/66c79b8baae134c654b2e3bcb7cfff5ca6889ee6)
