@@ -17,3 +17,6 @@
 
 ### Day 3: 20190317
 **Link(s) to work**: [practicepython](https://github.com/huangkai31/practicepython/commit/bc5a4e4a1c9196d9925af8d995ab68edc5e78501)
+
+### Day 4: 20190318
+**Link to work**: [practicepython](https://github.com/huangkai31/practicepython/commit/d70058f7728f15981bbebce6281ea59b9c1d0be2)
