@@ -14,3 +14,6 @@
 **Thoughts**: keep working on it! 
 
 **Link(s) to work**: [practicepython](https://github.com/huangkai31/practicepython/commit/66c79b8baae134c654b2e3bcb7cfff5ca6889ee6)
+
+### Day 3: 20190317
+**Link(s) to work**: [practicepython](https://github.com/huangkai31/practicepython/commit/bc5a4e4a1c9196d9925af8d995ab68edc5e78501)
